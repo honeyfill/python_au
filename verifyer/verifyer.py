@@ -1,11 +1,10 @@
 import requests
-import json
 
-TOKEN = '6d355b23b89a624da7059529f66ca9b1aed8a838'
+TOKEN = '80f968033c5d4e9d550c7ddb87fed00a202913d8'
 
 PREFIX = ['LEETCODE', 'GENERATOR', 'TRIANGLES', 'HEXNUMBER', 'REQUESTS', 'ITERATOR']
 GROUP = ['1021', '1022']
-ACTION = ['Added', 'Deleted', 'Refactored', 'Deleted', 'Moved']
+ACTION = ['Added', 'Deleted', 'Refactored', 'Moved']
 
 
 def prepare_headers():
@@ -64,7 +63,7 @@ def verify_pr(pull):
 if __name__ == '__main__':
     repo_name = 'python_au'
     user_login = 'honeyfill'
-    pr_state = 'closed'
+    pr_state = 'open'
     pulls = get_all_user_prs(user_login, repo_name, pr_state)
     for pull in pulls.json():
         verify_pr(pull)
