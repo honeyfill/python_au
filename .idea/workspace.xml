@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:triangles" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c46a278-2f24-4013-ab5c-e1f0a9bc04b3" name="Default Changelist" comment="CSApp Added smth" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="requests" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ltla1iG15XP4cC1aCFADqeNZ3e" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RunManager" selected="Python.verifyer (1)">
+    <configuration name="DZ11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_au" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/DZ11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_au" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hex-number" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hex-number/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="triangles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_au" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/triangles" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/triangles/triangles.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="verifyer (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_au" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/verifyer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/verifyer/verifyer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="verifyer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_au" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/requests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/requests/verifyer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.verifyer (1)" />
+        <item itemvalue="Python.verifyer" />
+        <item itemvalue="Python.DZ11" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.triangles" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c46a278-2f24-4013-ab5c-e1f0a9bc04b3" name="Default Changelist" comment="" />
+      <created>1608424327695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608424327695</updated>
+    </task>
+    <task id="LOCAL-00001" summary="GENERATOR-1021 Added generate_md.py">
+      <created>1608424865455</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608424865455</updated>
+    </task>
+    <task id="LOCAL-00002" summary="LEETCODE-1021 Added array.md">
+      <created>1608425063409</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608425063409</updated>
+    </task>
+    <task id="LOCAL-00003" summary="LEETCODE-1021 Added string.md">
+      <created>1608425678455</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608425678455</updated>
+    </task>
+    <task id="LOCAL-00004" summary="LEETCODE-1021 Added string.md">
+      <created>1608425818578</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608425818578</updated>
+    </task>
+    <task id="LOCAL-00005" summary="LEETCODE-1021 Added intervals.md">
+      <created>1608426077555</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608426077555</updated>
+    </task>
+    <task id="LOCAL-00006" summary="GENERATOR-1021 Added source_leetcode_data.txt">
+      <created>1608426348167</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608426348167</updated>
+    </task>
+    <task id="LOCAL-00007" summary="LEETCODE-1021 Added math.md">
+      <created>1608701175827</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608701175828</updated>
+    </task>
+    <task id="LOCAL-00008" summary="LEETCODE-1021 Added math.md">
+      <created>1608710367603</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1608710367603</updated>
+    </task>
+    <task id="LOCAL-00009" summary="TRIANGLES-1021 Added triangles.py">
+      <created>1608717752622</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1608717752622</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ITERATOR-1021 Added iterator.py">
+      <created>1608719328713</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1608719328713</updated>
+    </task>
+    <task id="LOCAL-00011" summary="GENERATOR-1021 Refactored generate_md.py and added tests_generator.py">
+      <created>1608725325553</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1608725325553</updated>
+    </task>
+    <task id="LOCAL-00012" summary="HEX-NUMBER-1021 Added hex_num.py, hex_test.py, main.py">
+      <created>1608726016474</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1608726016474</updated>
+    </task>
+    <task id="LOCAL-00013" summary="REQUESTS-1021 Added verifyer.py">
+      <created>1616182057230</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1616182057230</updated>
+    </task>
+    <task id="LOCAL-00014" summary="REQUESTS-1021 Refactored verifyer.py">
+      <created>1616182640931</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1616182640931</updated>
+    </task>
+    <task id="LOCAL-00015" summary="CSApp Added smth">
+      <created>1617209636025</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1617209636025</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="triangles" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="GENERATOR-1021 Added generate_md.py" />
+    <MESSAGE value="LEETCODE-1021 Added array.md" />
+    <MESSAGE value="LEETCODE-1021 Added string.md" />
+    <MESSAGE value="LEETCODE-1021 Added intervals.md" />
+    <MESSAGE value="GENERATOR-1021 Added source_leetcode_data.txt" />
+    <MESSAGE value="LEETCODE-1021 Added linked-list.md" />
+    <MESSAGE value="TRIANGLES-1021 Added triangles.py" />
+    <MESSAGE value="ITERATOR-1021 Added iterator.py" />
+    <MESSAGE value="GENERATOR-1021 Refactored generate_md.py and added tests_generator.py" />
+    <MESSAGE value="HEX-NUMBER-1021 Added hex_num.py, hex_test.py, main.py" />
+    <MESSAGE value="REQUESTS-1021 Added verifyer.py" />
+    <MESSAGE value="REQUESTS-1021 Refactored verifyer.py" />
+    <MESSAGE value="CSApp Added smth" />
+    <option name="LAST_COMMIT_MESSAGE" value="CSApp Added smth" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="187" key="FileChooserDialogImpl" timestamp="1617204992169">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="586" y="187" key="FileChooserDialogImpl/74.0.1462.864@74.0.1462.864" timestamp="1617204992169" />
+    <state x="656" y="333" key="GitRewordDialog" timestamp="1608710415982">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="656" y="333" key="GitRewordDialog/74.0.1462.864@74.0.1462.864" timestamp="1608710415982" />
+    <state width="1441" height="224" key="GridCell.Tab.0.bottom" timestamp="1616182510427">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="1441" height="224" key="GridCell.Tab.0.bottom/74.0.1462.864@74.0.1462.864" timestamp="1616182510427" />
+    <state width="1441" height="224" key="GridCell.Tab.0.center" timestamp="1616182510427">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="1441" height="224" key="GridCell.Tab.0.center/74.0.1462.864@74.0.1462.864" timestamp="1616182510427" />
+    <state width="1441" height="224" key="GridCell.Tab.0.left" timestamp="1616182510427">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="1441" height="224" key="GridCell.Tab.0.left/74.0.1462.864@74.0.1462.864" timestamp="1616182510427" />
+    <state width="1441" height="224" key="GridCell.Tab.0.right" timestamp="1616182510427">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="1441" height="224" key="GridCell.Tab.0.right/74.0.1462.864@74.0.1462.864" timestamp="1616182510427" />
+    <state width="1441" height="277" key="GridCell.Tab.1.bottom" timestamp="1616160890982">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="1441" height="277" key="GridCell.Tab.1.bottom/74.0.1462.864@74.0.1462.864" timestamp="1616160890982" />
+    <state width="1441" height="277" key="GridCell.Tab.1.center" timestamp="1616160890982">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="1441" height="277" key="GridCell.Tab.1.center/74.0.1462.864@74.0.1462.864" timestamp="1616160890982" />
+    <state width="1441" height="277" key="GridCell.Tab.1.left" timestamp="1616160890982">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="1441" height="277" key="GridCell.Tab.1.left/74.0.1462.864@74.0.1462.864" timestamp="1616160890982" />
+    <state width="1441" height="277" key="GridCell.Tab.1.right" timestamp="1616160890982">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="1441" height="277" key="GridCell.Tab.1.right/74.0.1462.864@74.0.1462.864" timestamp="1616160890982" />
+    <state x="213" y="69" key="MergeDialog" timestamp="1608799375005">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="213" y="69" key="MergeDialog/74.0.1462.864@74.0.1462.864" timestamp="1608799375005" />
+    <state x="314" y="77" key="SettingsEditor" timestamp="1616193166744">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="314" y="77" key="SettingsEditor/74.0.1462.864@74.0.1462.864" timestamp="1616193166744" />
+    <state x="398" y="165" key="Vcs.Push.Dialog.v2" timestamp="1617209657659">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="398" y="165" key="Vcs.Push.Dialog.v2/74.0.1462.864@74.0.1462.864" timestamp="1617209657659" />
+    <state x="587" y="145" key="git4idea.branch.GitSmartOperationDialog" timestamp="1608799364523">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="587" y="145" key="git4idea.branch.GitSmartOperationDialog/74.0.1462.864@74.0.1462.864" timestamp="1608799364523" />
+    <state x="468" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1608797199239">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="468" y="181" width="672" height="678" key="search.everywhere.popup/74.0.1462.864@74.0.1462.864" timestamp="1608797199239" />
+  </component>
+</project>
