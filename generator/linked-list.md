@@ -1,4 +1,4 @@
-#Linked-List
+# Linked List
 
 + [Reverse Linked List](#reverse-linked-list)
 + [Middle of the Linked List](#middle-of-the-linked-list)
@@ -10,6 +10,7 @@
 + [Reorder List](#reorder-list)
 + [Intersection of Two Linked Lists](#intersection-of-two-linked-lists)
 + [Sort List](#sort-list)
++ [Merge k Sorted Lists](#merge-k-sorted-lists)
 ## Reverse Linked List 
 
 https://leetcode.com/problems/reverse-linked-list/
@@ -293,5 +294,30 @@ class Solution:
             current.val = num
             current = current.next
         return head
+
+```
+## Merge k Sorted Lists 
+
+https://leetcode.com/problems/merge-k-sorted-lists/
+
+```python
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def mergeKLists(self, lists: List[ListNode]) -> ListNode:
+        self.nodes=[]
+        head = lol = ListNode(0)
+        for lis in lists:
+            while lis:
+                self.nodes.append(lis.val)
+                lis = lis.next
+        self.nodes = sorted(self.nodes)
+        for elem in self.nodes:
+            lol.next = ListNode(elem)
+            lol = lol.next
+        return head.next
 
 ```
